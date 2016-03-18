@@ -1,0 +1,17 @@
+{
+  "name": "wdio-console-log-crash",
+  "version": "1.0.0",
+  "description": "functional tests that crash",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio",
+    "start": "wdio"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "wdio-dot-reporter": "0.0.5",
+    "wdio-mocha-framework": "^0.2.11",
+    "webdriverio": "^4.0.4"
+  }
+}
